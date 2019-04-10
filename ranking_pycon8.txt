@@ -1,0 +1,182 @@
+TID~Type~Duration~Title~Track~Level~Lang~Speakers~Gender
+1257~Talk~45~AI, Machine Learning e Deep Learning: cosa cambia?~PyData~Beginner~it~Antonio Spadaro~male
+1099~Talk~90~L’Italia, python e la chimera dell’Agile~PyCommunity~Intermediate~it~Gabriele Giaccari~male
+1174~Talk~45~Facial Analysis Techniques for Pythonista (and beyond!)~PyData~Intermediate~en~Alex Casalboni~male
+1151~Talk~45~Performant Python~Python & Friends~Beginner~en~Burkhard Kloss~male
+1182~Talk~45~Demystifying Decorators~Python & Friends~Beginner~en~Akul Mehra~male
+1088~Talk~45~Solving the Rubiks Cube with Python~PyData~Intermediate~en~Daan van Berkel~male
+1114~Talk~45~Building Serverless applications with Python~PyWeb & DevOps~Advanced~en~Andrii Soldatenko~male
+1175~Talk~60~Deep Learning made easy~PyData~Beginner~en~Jalem Raj Rohit~male
+1199~Talk~60~The unconventional Introduction to Deep Learning~PyData~Beginner~en~Valerio Maggio~male
+1200~Training~240~Deep Learning, the Keras way~PyData~Intermediate~en~Valerio Maggio~male
+1255~Talk~60~A Gentle Introduction to Neural Networks (with Python)~PyData~Beginner~en~Tariq Rashid~male
+1186~Talk~45~Introduction to Data-Analysis with Pandas~PyData~Beginner~en~Alexander Hendorf~male
+1104~Talk~60~Machine Learning con Python: previsione in real-time della richiesta di energia elettrica~PyData~Beginner~it~Felice Tuosto~male
+1187~Talk~45~Create a serverless infrastructure for data collection with Python and AWS~PyWeb & DevOps~Intermediate~it~David Santucci~male
+1216~Talk~30~Tales from the Crypt: A Cryptography Primer~Python & Friends~Beginner~en~Adam Englander~male
+1097~Talk~45~ByteCode al supporto dei test per protocolli ed enforcing di best practices~Python & Friends~Intermediate~it~Alessandro Molina~male
+1135~Talk~60~Solving the web most popular code shortening competition with Python 3~Python & Friends~Intermediate~en~Alessandro Amici~male
+1136~Talk~45~Affrontare le sfide del cambiamento climatico con Python~PyData~Beginner~it~Alessandro Amici~male
+1185~Talk~45~Time Series Analysis with Pandas~PyData~Intermediate~en~Alexander Hendorf~male
+1080~Talk~45~Unreal Engine 4 e Python: Ora si Puo'~Python & Friends~Beginner~it~Roberto De Ioris~male
+1128~Talk~60~Machine Learning con Python: algoritmi NILM e real-time processing~PyData~Beginner~it~Felice Tuosto~male
+1090~Talk~45~OpenCV for face detection~PyData~Beginner~en~Ken Alger~male
+1137~Talk~60~Digital Analytics Data Aggregation: un case study dal mondo reale utilizzando SQL, NoSQL e Pandas~PyDatabase~Advanced~it~Alessandro Pelliciari~male
+1101~Talk~45~Is it too late to learn how to program and how being a developer change my life~PyCommunity~Beginner~en~Alicia Carr~female
+1132~Talk~45~Perché Python fa schifo!~PyCommunity~Beginner~it~Antonio Spadaro~male
+1102~Talk~45~Indicizzare e ricercare tonnellate di dati con ElasticSearch e Django~PyWeb & DevOps~Intermediate~it~Ernesto Arbitrio~male
+1190~Talk~45~Django Rest Framework - Tips&Tricks~PyWeb & DevOps~Beginner~it~Luca Zacchetti~male
+1193~Talk~45~How to turn Wikipedia into a Quiz Game~PyData~Beginner~en~Andrea Cappelli,Roberto Turrin~male, male
+1223~Talk~30~Out of Sight, Out of Mind: Survival tricks and tools for remote developers~PyWeb & DevOps~Beginner~en~Alessio Bragadini~male
+1253~Talk~60~Where are you going? An overview on machine learning models for human mobility~PyData~Beginner~it~Gianni Barlacchi~male
+1091~Talk~45~Python on $5 IoT Device~Python & Friends~Beginner~en~Ken Alger~male
+1148~Talk~60~Tensor decomposition with Python: Learning structures from multidimensional data~PyData~Intermediate~it~André Panisson~male
+1180~Talk~45~An Introduction to Pandas for Data Analysis in Python~PyData~Beginner~en~Ayush Kumar Singh~male
+1077~Training~240~Quattro ore di Silenzio Assoluto~Python & Friends~Advanced~en~Carlo Miron~male
+1191~Talk~60~PyPy Status Update~Python & Friends~Intermediate~en~Antonio Cuni~male
+1084~Talk~45~Crash test of Django ORM~PyWeb & DevOps~Intermediate~en~Andrii Soldatenko~male
+1170~Talk~60~Understanding Serverless Architecture~PyWeb & DevOps~Beginner~en~Jalem Raj Rohit~male
+1086~Talk~45~Getting started with requests HTTP library~PyWeb & DevOps~Beginner~it~Andrea Grandi~male
+1252~Talk~45~Basic principles of scientific data visualization~PyData~Beginner~en~Giuseppe Jurman~male
+1197~Talk~60~Serverless computing con Python e AWS~PyWeb & DevOps~Intermediate~it~Federico Caboni~male
+1217~Talk~30~Behavioral Driven Development: Tame the Beast~Python & Friends~Beginner~en~Adam Englander~male
+1194~Talk~45~Explore the brain with Nilearn~PyData~Intermediate~en~Darya Chyzhyk~female
+1173~Talk~45~An Introduction to Feature Selection in Machine Learning using Python~PyData~Beginner~en~Rahul Baboota~male
+1117~Talk~45~Word Embedding: come codificare il linguaggio naturale per algoritmi di previsione e classificazione~PyData~Beginner~it~Felice Tuosto,Andrea Ianni~male, male
+1082~Training~240~Intro to Natural Language Processing in Python~PyData~Beginner~en~Marco Bonzanini~male
+1106~Talk~60~The Journey Of aeneas: A Python Adventure In Text and Speech~PyData~Intermediate~en~Alberto Pettarin~male
+1156~Talk~60~Python in Africa~PyCommunity~Beginner~en~Anna Makarudze~female
+1189~Talk~45~Python e swift: linguaggi a confronto~Python & Friends~Intermediate~it~Lelio Campanile~male
+1131~Talk~45~Jupyter: if you don't use it yet you're doing wrong~PyData~Beginner~en~Christian Barra~male
+1195~Talk~45~Deploy automatizzato di un progetto Python 3/Django con Ansible~PyWeb & DevOps~Intermediate~it~Marco Santamaria~male
+1210~Talk~30~From Idea to Presentation: How to Prepare a Conference Talk~PyCommunity~Beginner~en~Anna Ossowski~female
+1176~Talk~60~E.T. chiama Python~PyCommunity~Intermediate~it~Davide Corio~male
+1198~Talk~60~Serverless computing with Python and AWS~PyWeb & DevOps~Intermediate~en~Federico Caboni~male
+1126~Talk~45~Why I still develop synchronous web in the asyncIO era~PyWeb & DevOps~Intermediate~en~Giovanni Barillari~male
+1206~Talk~30~Be(come) a Mentor! Help Others Succeed! ~PyCommunity~Beginner~en~Anna Ossowski~female
+1085~Talk~45~Test Driven Deployment with Ansible 2.~Python & Friends~Intermediate~en~Roberto Polli~male
+1207~Talk~30~No Coding Skills Required: How to Contribute to Open Source in Other Ways ~PyCommunity~Beginner~en~Anna Ossowski~female
+1246~Talk~30~Django among modern web frameworks – was Angular2 a good choice?~PyWeb & DevOps~Intermediate~en~Andrzej Krawczyk~male
+1108~Talk~60~42 PyCharm Tips and Tricks~Python & Friends~Beginner~en~Dmitry Trofimov~male
+1111~Talk~45~An Introduction to web scraping using Python~PyWeb & DevOps~Beginner~en~Manoj Pandey~male
+1127~Talk~45~Perché sviluppo ancora web sincrono nell'era dell'asyncIO~PyWeb & DevOps~Intermediate~it~Giovanni Barillari~male
+1167~Talk~60~Realizzare stampe HTML e PDF usando solo Python~PyBusiness~Beginner~it~Saverio Porcari~male
+1154~Talk~45~Chat Bot in Telegram (e slack e altri)~Python & Friends~Beginner~it~Lorenzo Buonanno,Tommaso Sartor~male, male
+1215~Talk~30~Django and the testing pyramid~PyWeb & DevOps~Intermediate~en~Aaron Bassett~male
+1184~Talk~45~Growing a Python community~PyCommunity~Beginner~en~Anton Caceres~male
+1110~Talk~45~Sparking Pandas: an experiment~PyData~Intermediate~en~Francesco Bruni~male
+1228~Talk~30~Data loss prevention in modern web applications~PyWeb & DevOps~Beginner~en~Xavier Dutreilh~male
+1256~Talk~60~Don't try to look smart. Be smart~PyCommunity~Beginner~en~Flavio Percoco~male
+1094~Talk~60~Amazon Web Services for dummies - tips and tricks~PyWeb & DevOps~Beginner~en~Justyna Janczyszyn~female
+1245~Talk~30~Compassionate Code Reviews~PyCommunity~Beginner~en~April Wensel~female
+1121~Talk~45~OpneSSH SFTP service con Python: pysftpserver.~PyWeb & DevOps~Intermediate~it~Filippo Morelli~male
+1224~Talk~30~Rants and Ruminations From A Job Applicant After 💯 CS Job Interviews in Silicon Valley~PyCommunity~Beginner~en~Susan Tan~female
+1096~Talk~60~Amazon Web Services per i principianti - consigli e trucchi~PyWeb & DevOps~Beginner~it~Justyna Janczyszyn~female
+1079~Talk~60~Creare videogiochi per smartphone con Kivy~Python & Friends~Intermediate~it~Rigel Di Scala~male
+1129~Talk~60~Rusty Python~Python & Friends~Intermediate~it~Matteo Bertini~male
+1133~Talk~45~Space weather monitoring for a simulation of a Martian settlement based on Virtual Reality~PyData~Beginner~en~Giovanni Bruno~male
+1144~Talk~45~Full Text Search con PostgreSQL~PyDatabase~Beginner~it~Giuseppe Broccolo~male
+1146~Talk~45~Disaster recovery: una serie di sfortunati eventi~PyDatabase~Beginner~it~Giulio Calacoci~male
+1155~Training~240~Scrivere Chat Bot per Telegram e Slack~Python & Friends~Beginner~it~Lorenzo Buonanno,Tommaso Sartor~male, male
+1208~Talk~30~The Hidden Power Dynamics of Open Source~PyCommunity~Beginner~en~Anna Ossowski~female
+1202~Talk~45~Catching Neutrinos with Python and KM3NeT~PyData~Beginner~en~Tamás Gál~male
+1188~Talk~45~Svilluppare con python sull'iPad~Python & Friends~Beginner~it~Lelio Campanile~male
+1107~Talk~45~Il Viaggio di aeneas: Un'Avventura Con Python Tra Testo e Parlato~PyData~Beginner~it~Alberto Pettarin~male
+1109~Talk~45~Just one Shade of OpenStack~Python & Friends~Beginner~en~Roberto Polli~male
+1192~Talk~60~Python e PostgreSQL, un connubio perfetto~PyDatabase~Beginner~it~Marco Nenciarini~male
+1221~Talk~30~Applying the unix philosophy to django projects: a report from the real world~PyCommunity~Beginner~en~Federico Capoano~male
+1100~Talk~45~Taiga e l’agile project management: join the Oompa Loompas’ Army!~PyCommunity~Intermediate~it~Gabriele Giaccari~male
+1152~Talk~45~Plugin Based Chat Bots in Telegram (and Slack and others)~Python & Friends~Beginner~en~Lorenzo Buonanno,Tommaso Sartor~male, male
+1171~Talk~45~Da applicativi Desktop a Web~PyBusiness~Beginner~it~Luigi Renna~male
+1177~Talk~45~Open edX, soluzione per l'e-learning basata su Django~PyWeb & DevOps~Beginner~it~Davide Corio~male
+1196~Talk~45~Automated deploy of a Python 3/Django project with Ansible~PyWeb & DevOps~Intermediate~en~Marco Santamaria~male
+1230~Talk~30~Type uWSGI; press enter; what happens?~PyWeb & DevOps~Advanced~en~Philip James~male
+1249~Talk~30~Planet friendly web development with Django~PyWeb & DevOps~Intermediate~en~Chris Adams~male
+1124~Talk~60~weppy: il framework web per umani~PyWeb & DevOps~Beginner~it~Giovanni Barillari~male
+1134~Talk~45~Word Embeddings for Natural Language Processing in Python~PyData~Beginner~en~Marco Bonzanini~male
+1166~Talk~45~Scientific Hooliganism: lessons from the first hack in history~PyCommunity~Beginner~en~Lilly Ryan~female
+1209~Talk~30~Threading Yarn, Writing Code: What Traditional Arts and Crafts Can Teach Us About Programming~PyCommunity~Beginner~en~Anna Ossowski~female
+1112~Talk~45~Attack of Pythons : Gotchas and Landmines in Python~Python & Friends~Beginner~en~Manoj Pandey~male
+1120~Talk~45~Presenting pysftpserver: OpenSSH SFTP service with Python.~PyWeb & DevOps~Intermediate~en~Filippo Morelli~male
+1226~Talk~30~Navigating unconscious bias~PyCommunity~Beginner~en~Anna Schneider~female
+1239~Talk~30~Loop better: a deeper look at iteration in Python~Python & Friends~Intermediate~en~Trey Hunner~male
+1092~Talk~60~Validazione e decodifica di file XML con Python~PyData~Intermediate~it~Davide Brunato~male
+1098~Talk~60~Dai dati alla visualizzazione: la mia prima data pipeline~PyData~Beginner~it~Riccardo Magliocchetti~male
+1078~Talk~45~Django nella giungla Javascript ~PyWeb & DevOps~Beginner~it~Patrick Guido Arminio~male
+1119~Talk~45~Ricerca full text in Django con PostgreSQL~PyDatabase~Intermediate~it~Paolo Melchiorre~male
+1139~Training~240~Supervised learning in high dimensional data: from zero to ℵ-0~PyData~Beginner~en~Matteo Barbieri~male
+1122~Talk~45~Ansible roles, private git repos and the Ansible Galaxy tool~Python & Friends~Intermediate~en~serena lorenzini~female
+1153~Training~240~Writing Plugin Based Chat Bots in Telegram (and Slack)~Python & Friends~Beginner~en~Lorenzo Buonanno,Tommaso Sartor~male, male
+1204~Talk~45~How to use pandas the wrong way~PyData~Intermediate~en~Pietro Battiston~male
+1213~Talk~30~Comprehensible Comprehensions~Python & Friends~Beginner~en~Trey Hunner~male
+1179~Talk~60~E.T. phone Python~PyCommunity~Intermediate~en~Davide Corio~male
+1218~Talk~30~Leading an open source project as a startup.~PyCommunity~Beginner~en~Nicolas Garnier~male
+1219~Talk~30~The hard long journey of submitting a form~PyWeb & DevOps~Intermediate~en~Filipe de Alencar Ximenes~male
+1235~Talk~30~Security Starts With You: Social Engineering~PyCommunity~Beginner~en~Tiberius Hefflin~male
+1237~Talk~30~How Not To Password~PyCommunity~Beginner~en~Tiberius Hefflin~male
+1093~Talk~60~Infrastructure as Code with Terraform~PyWeb & DevOps~Beginner~en~Justyna Janczyszyn~female
+1247~Talk~30~The mullet architecture - Elasticsearch in the front, Postgres in the back~PyWeb & DevOps~Intermediate~en~Honza Král~male
+1087~Training~240~Costruiamo l’Internet dei Robot~Python & Friends~Beginner~en~Ludovico Orlando Russo~male
+1089~Talk~45~Rules of thumb to test the documentation~Python & Friends~Intermediate~it~Marco Buttu~male
+1095~Talk~60~Infrastruttura come codice con Terraform~PyWeb & DevOps~Beginner~it~Justyna Janczyszyn~female
+1105~Talk~45~Geospatial three amigos: Python, Leaflet, and ElasticSearch~PyWeb & DevOps~Beginner~en~Roberto Rosario~male
+1158~Talk~45~ZimboPy: Empowering Zimbabwean Girls As Change Makers~PyCommunity~Beginner~en~Marlene Mhangami~female
+1145~Talk~45~Continuous Delivery for Iot with Python and Iottly~Python & Friends~Intermediate~en~Stefano Terna~male
+1244~Talk~30~Python, Locales and Writing Systems~Python & Friends~Intermediate~en~Rae Knowler~female
+1241~Talk~30~Django Admin - The Swiss Army Knife~PyWeb & DevOps~Intermediate~en~Prakash Kumar~male
+1250~Talk~45~Keeping up with the pace of a fast growing community without dying ~PyCommunity~Beginner~en~Flavio Percoco~male
+1163~Talk~45~Analisi dati e grafici in Genropy~PyBusiness~Beginner~it~Francesco Porcari~male
+1081~Talk~60~Cross-platform game development with Kivy~Python & Friends~Intermediate~it~Rigel Di Scala~male
+1115~Talk~45~Combating Impostor Syndrome~PyCommunity~Beginner~en~Ken Alger~male
+1116~Talk~45~MIT MicroMasters: come sviluppare una web application basata su servizi esterni.~PyWeb & DevOps~Beginner~it~Giovanni Di Milia~male
+1142~Talk~45~PostgreSQL su NFS: miti e verità~PyDatabase~Intermediate~it~Jonathan Battiato~male
+1143~Talk~45~Misura: Un sistema per il controllo strumentale, l'acquisizione dati ed il calcolo scientifico~PyData~Beginner~it~Daniele Paganelli~male
+1150~Talk~45~The Wild West of Data Wrangling~PyData~Intermediate~en~Sarah Guido~female
+1123~Talk~45~Ansible: sviluppo e utilizzo di roles seguendo il modello di Ansible Galaxy~Python & Friends~Intermediate~it~serena lorenzini~female
+1203~Talk~45~Come usare male pandas~PyData~Intermediate~it~Pietro Battiston~male
+1248~Talk~30~Serverlessness - augmenting your Django apps with Functions-as-a-Service~PyWeb & DevOps~Intermediate~en~Tom Dyson~male
+1251~Talk~45~Monitoring Beach Morphology with Python~PyData~Beginner~it~Luca Liberti~male
+1147~Talk~45~Artistic Python: Mixing Python Programming with Fashion ~Python & Friends~Beginner~en~Ria Baldevia~female
+1118~Talk~45~Python + Windows, like a boss~Python & Friends~Intermediate~en~Nicola Iarocci~male
+1138~Talk~45~Pilotare un braccio robotico dal cloud con GenroPy e Raspberry~Python & Friends~Beginner~it~Michele Bertoldi~male
+1242~Talk~30~Qualities of great reusable Django apps~PyWeb & DevOps~Intermediate~en~Flávio Juvenal da Silva Junior~male
+1254~Talk~45~Differential network analysis and graph classification: a glocal approach~PyData~Intermediate~en~Giuseppe Jurman~male
+1233~Talk~30~Never Accept the First Offer~PyCommunity~Beginner~en~Tiberius Hefflin~male
+1160~Talk~45~Roboto Framework for Test Code Coverage for cloud services.~Python & Friends~Beginner~en~khushbu parakh~female
+1113~Talk~45~RFLab - Controllo remoto strumentazione di un laboratorio nel settore delle microonde~PyData~Intermediate~it~Andrea Saba~male
+1125~Talk~60~weppy: the web framework for humans~PyWeb & DevOps~Beginner~en~Giovanni Barillari~male
+1172~Talk~45~iCond: GenroPy per amministratori di condomini~PyBusiness~Beginner~it~Andrea Busanelli~male
+1178~Talk~45~Sviluppo lato client con Odoo~PyBusiness~Advanced~it~Davide Corio~male
+1083~Talk~45~Fuzzy is the new sexy: a tour of scikit-fuzzy~PyData~Beginner~it~Niccolo Raspa~male
+1212~Talk~30~Scaling Django with Kubernetes~PyWeb & DevOps~Intermediate~en~Saket Bhushan~male
+1214~Talk~30~Mastering Your Tools~PyCommunity~Beginner~en~Miguel Branco Palhas~male
+1229~Talk~30~Beginning with django? Why you need to continue with django ~PyWeb & DevOps~Beginner~en~Opetunde Adepoju~female
+1103~Talk~45~Awesome CLI~Python & Friends~Beginner~en~Mark Fink~male
+1157~Talk~60~Creazione ed evoluzione di un framework per interfacce grafiche Multi-Touch con OpenGL~Python & Friends~Advanced~it~Tiziano Carotti~male
+1165~Training~240~Creiamo un'applicazione per la gestione di ticket in Genropy~PyBusiness~Beginner~en~Francesco Porcari~male
+1164~Talk~45~Form e Campi dinamici in Genropy~PyBusiness~Beginner~it~Francesco Porcari~male
+1149~Talk~45~Real-time Trajectory Optimization through contacts, a simple test case.~PyData~Intermediate~it~Tommaso Sartor~male
+1205~Training~240~Quando il saggio indica il cielo, pandas guarda l'indice~PyData~Beginner~it~Pietro Battiston~male
+1227~Talk~30~Migrating from JavaEE to Django: the OSIS case of embracing cultural and technical changes~PyWeb & DevOps~Beginner~en~Hildeberto Mendonca~male
+1232~Talk~30~Why the Internet Loves Cats ~PyCommunity~Beginner~en~Tiberius Hefflin~male
+1234~Talk~30~James and the Giant Forensics Toolkit~Python & Friends~Beginner~en~Tiberius Hefflin~male
+1238~Talk~30~Time Tracking is Hard~PyCommunity~Intermediate~en~Sam Deng~male
+1141~Talk~45~Taking care of PostgreSQL with Ansible~PyDatabase~Beginner~en~Rubens Souza~male
+1236~Talk~30~The Monster on the Project~PyCommunity~Beginner~en~Tiberius Hefflin~male
+1161~Talk~45~ENVIFATE: plugin per QGIS per la valutazione del rischio di inquinamento ambientale~Python & Friends~Beginner~it~Francesco Geri~male
+1225~Talk~30~Integrating the Bokeh library with Django~PyWeb & DevOps~Beginner~en~Ken Alger~male
+1240~Talk~30~Preventing issues on Django with linters and tools~PyWeb & DevOps~Beginner~en~Flávio Juvenal da Silva Junior~male
+1159~Talk~60~Genropy: 10 anni di sviluppo di un framework italiano~PyBusiness~Beginner~it~Giovanni Porcari~male
+1162~Talk~60~Django ORM in server TCP con backend multischema PostgreSQL~PyWeb & DevOps~Intermediate~it~Luca Ferroni~male
+1130~Talk~45~ LiFT - Un tagger di features per l’analisi multidimensionale di testi ottimizzato per PySpark ~PyData~Beginner~it~Michele Gabusi~male
+1201~Talk~45~Terrain Generation in Python with Processing~Python & Friends~Intermediate~it~Paolo Improta~male
+1181~Talk~45~Genropy - Caso d'uso: gestione di una infrastruttura telefonica VoIP di medie/grandi dimensioni~PyBusiness~Beginner~it~Mauro Zanardi~male
+1183~Talk~45~Un anno di Genropy~PyBusiness~Beginner~it~Muhammad Hassan Khurshid~male
+1211~Talk~30~Dial M For Mentor~PyCommunity~Beginner~en~Mariatta Wijaya~female
+1231~Talk~30~Deploying your django application using puppet~PyWeb & DevOps~Beginner~en~Krzysztof Żuraw~male
+1243~Talk~30~Addons: I can solve 90% of your problems. The other 90% are up to you.~PyWeb & DevOps~Intermediate~en~Stefan Foulis~male
+1140~Talk~45~ADENINE: A Data ExploratioN pIpeliNE~PyData~Beginner~en~Samuele Fiorini~male
+1222~Talk~30~People Are Coming To My Beginning Workshop, What Now?~PyCommunity~Beginner~en~Nicholle James~female
+1169~Talk~45~Wargame web app - Odoo come framework di sviluppo~PyBusiness~Intermediate~it~Nicola Malcontenti~male
+1168~Talk~45~Usare Erpy da applicazioni esterne~PyBusiness~Beginner~it~Giovanni Porcari~male
+1220~Talk~30~Using SASS in Django~PyWeb & DevOps~Beginner~en~Jacob Rief~male
